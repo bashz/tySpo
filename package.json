@@ -6,7 +6,7 @@
     "contributors": [],
     "dependencies": {
         "express": "4.13.3",
-        "ejs": "2.3.4",
+        "ejs": "2.5.5",
         "socket.io": "1.4.4"
     }
 }
